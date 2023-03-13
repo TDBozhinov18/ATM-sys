@@ -1,7 +1,7 @@
 class Withdraw{
     private double amount;
 
-    public Withdraw(double amount) {
+    public Withdraw() {
         this.amount = amount;
     }
 

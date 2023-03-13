@@ -1,4 +1,4 @@
-class Transaction extends Loan{
+class Transaction extends Withdraw{
     protected int id;
     protected String client;
     protected String data;
